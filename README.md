@@ -7,6 +7,7 @@
   </a>
 
   <h3 align="center"><b>Tripper</b></h3>
+  ![](https://visitor-badge.glitch.me/badge?page_id=mythologica404.mythologica404&style=flat-square&color=0088cc)
 
   <p align="center">
     Sebuah aplikasi tentang pemesanan paket travel. Aplikasi ini dibuat sebagai tugas akhir dari Mata Kuliah Pemgrograman Berbasis Objek. Dibuat menggunakan bahasa pemrograman Java dan library JFrame serta database SQL dengan phpmyadmin.
